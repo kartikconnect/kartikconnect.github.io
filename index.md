@@ -21,7 +21,7 @@ Data Analysis: Pandas, NumPy
 
 Visualization: Matplotlib, Seaborn
 
-Databases: MySQL, PostgreSQL
+Databases: MySQL
 
 Other Tools: Git, Jupyter, VS Code
 🌱 What's Next?
