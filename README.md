@@ -24,6 +24,7 @@ Visualization: Matplotlib, Seaborn
 Databases: MySQL, PostgreSQL
 
 Other Tools: Git, Jupyter, VS Code
+
 🌱 What's Next?
 I'm always looking to learn and grow. Here are some areas I'm currently exploring:
 Email: kartikeydubey345@gmil.com
