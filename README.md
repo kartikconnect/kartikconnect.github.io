@@ -1,9 +1,12 @@
 👋 Hi,
+## Welcome to my coding world!
 # Kartik Dubey - Portfolio
-Passionate coder & hacker ka portfolio.
-## About Me
 * Naam: Kartik Dubey
-* Profession: Coder 
+* Profession: Coder
+### About Me:
+Hello, I'm Kartik Dubey, a passionate coder & hacker with a strong interest in technology and innovation.
+I enjoy learning new programming languages and exploring the latest advancements in the field.
+
 🧠 Passionate Data Scientist
 
 🌏 Based in Mumbai, Maharashtra, India
@@ -24,3 +27,7 @@ Other Tools: Git, Jupyter, VS Code
 🌱 What's Next?
 I'm always looking to learn and grow. Here are some areas I'm currently exploring:
 Email: kartikeydubey345@gmil.com
+### Connect with me:
+* [Instagram](https://instagram.com/kartikdubey_connect)
+* [Facebook](https://www.facebook.com/1BZ8J8MbW4)
+* [Email](mailto:kartidubey345@gmail.com)
