@@ -1,4 +1,3 @@
-# Kartik Dubey
 ## Welcome to my coding world!
 ### About Me:
 Hello, I'm Kartik Dubey, a passionate coder & hacker with a strong interest in technology and innovation.
