@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>Kartik Dubey</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>Kartik Dubey</header>
+<section class="about">About Me: Passionate coder</section>
+<section class="projects">My Projects:</section>
+<footer>&copy; Kartik Dubey</footer>
+</body>
+</html>
+
+*style.css*
+
+body {font-family: Arial;margin: 0;}
+header {background-color: #333;color: #fff;padding: 1em;text-align: center;}
+.about, .projects {padding: 2em;}
+footer {background-color: #333;color: #fff;padding: 1em;text-align: center;}
