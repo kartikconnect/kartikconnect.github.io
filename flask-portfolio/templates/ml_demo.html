@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+{% block title %}ML Demo - My Portfolio{% endblock %}
+
+{% block content %}
+<h1>Titanic Survival Prediction</h1>
+<form action="{{ url_for('ml_demo') }}" method="post">
+    <label>Age:</label>
+    <input type="number" name="age" required><br>
+
+    <label>Fare:</label>
+    <input type="number" name="fare" required><br>
+
+    <label>Gender:</label>
+    <select name="gender">
+        <option value="0">Female</option>
+        <option value="1">Male</option>
+    </select><br>
+
+    <label>Pclass:</label>
+    <select name="pclass">
+        <option value="1">1st Class</option>
+        <option value="2">2nd Class</option>
+        <option value="3">3rd Class</option>
+    </select><br>
+
+    <input type="submit" value="Predict">
+</form>
+
+{% if prediction is not none %}
+    <p><strong>Prediction:</strong> {{ prediction }}</p>
+{% endif %}
+{% endblock %}
